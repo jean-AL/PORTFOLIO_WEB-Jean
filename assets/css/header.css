@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    padding: 95px;
+}
+
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text{
+    text-align: left;
+    margin-right: -251px;
+    font-weight: bold;
+}
+
+.image{
+    text-align: right;
+}
