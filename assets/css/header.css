@@ -21,3 +21,12 @@
 .image{
     text-align: right;
 }
+
+@media (max-width: 1250px) {
+    .text{
+        color: red;
+    }
+    .image{
+        display: none;
+    }
+}

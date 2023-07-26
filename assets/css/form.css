@@ -1,0 +1,33 @@
+.form{
+    background-color: antiquewhite;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+input[type=text], select, textarea  {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 15px;
+    margin: 5px;
+    border : 1px solid white;
+    border-radius: 3px;
+}
+
+input[type=number] {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 15px;
+    margin: 5px;
+    border : 1px solid white;
+    border-radius: 3px;
+}
+
+input[type=submit] {
+    width: 100%;
+    background-color: aqua;
+    padding: 14px;
+    margin: 8px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
